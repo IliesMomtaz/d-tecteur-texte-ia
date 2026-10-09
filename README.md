@@ -1,1 +1,1 @@
-# d-tecteur-texte-ia
+# détecteur-texte-ia
